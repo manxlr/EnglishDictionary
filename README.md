@@ -2,7 +2,7 @@
 A modern Python GUI application to explore and search an English dictionary stored in SQLite. The app allows users to view all words or search for specific entries, with a sleek, copyable interface built using Dear PyGui.
 
 English Dictionary App is a lightweight, visually appealing tool that lets you interact with an embedded dictionary database effortlessly. Whether you want to browse all entries or look up a specific word’s type and definition, this app provides a smooth experience with robust SQLite integration.
-
+![Interface](assets/GUI.png).
 ## 🔍 Key Features
 Embedded SQLite Database
 Includes a dictionary database within the executable—no external files needed!
